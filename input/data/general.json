@@ -1,22 +1,22 @@
 {
-  "languages": ["de", "en"],
-  "defaultLanguage": "en",
+  "languages": ["ru", "en"],
+  "defaultLanguage": "ru",
   "showAboutWebsite": true,
-  "de": {
-    "id": "de",
-    "name": "Deutsch",
-    "isoAlpha2": "de",
-    "heading": "WebCVTemplate",
-    "subheading": "Unkomplizierte CV Vorlage",
-    "showMore": "Mehr anzeigen",
-    "showLess": "Weniger anzeigen",
+  "ru": {
+    "id": "ru",
+    "name": "Русский",
+    "isoAlpha2": "ru",
+    "heading": "Мягков Василий Андреевич",
+    "subheading": "Резюме",
+    "showMore": "Больше информации",
+    "showLess": "Свернуть",
 
-    "home": "Home",
-    "education": "Bildungsweg",
-    "experience": "Erfahrung",
-    "skills": "Kenntnisse",
-    "about": "Über",
-    "contact": "Kontakt"
+    "home": "Домой",
+    "education": "Образование",
+    "experience": "Опыт",
+    "skills": "Навыки",
+    "about": "Обо мне",
+    "contact": "Контакты"
   },
   "en": {
     "id": "en",
